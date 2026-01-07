@@ -53,4 +53,4 @@
 ├── postcss.config.js  
 ├── tailwind.config.js  
 └── vite.config.js  
-🌐 [Live link](weather-app-git-main-yuvarajs-projects-1791453d.vercel.app)
+🌐 [Live link](https://weather-app-topaz-eta-35.vercel.app)
